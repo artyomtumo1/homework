@@ -1,4 +1,4 @@
-class GrassEater {
+class GrassEater extends Default{
     constructor(x,y,index) {
         super(x,y,index);
         this.energy = 32;
